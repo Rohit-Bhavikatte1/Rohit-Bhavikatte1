@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit-Bhavikatte1
+- 👋 Hi, I’m @Rohit-Bhavikatte
 - 👀 I’m interested in Data Analyst work or work in the field of data Science 
 - 🌱 I’m currently Fresher and i have good understanding in Python,SQL, Power BI and Knowledge of Machine Leraning (Supervised Learning ) 
 - 💞️ I’m looking to collaborate on Open Source data analyst or data Engineering projects
